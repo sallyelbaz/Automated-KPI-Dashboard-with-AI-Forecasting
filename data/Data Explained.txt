@@ -1,0 +1,10 @@
+Date:	Observation date
+Revenue:	Daily revenue in USD
+ActiveUsers:	Number of active users that day
+NewSignUps:	Number of new signups
+ChurnRate:	Percentage of users lost
+SupportTickets:	Number of customer support tickets
+AvgSessionTime:	Average session time in minutes
+Region:	Market region (NA, EU, APAC)
+CampaignSpend:	Marketing spend that day in USD
+ConversionRate:	% of users completing a target action
